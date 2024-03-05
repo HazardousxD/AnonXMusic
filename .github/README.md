@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 🥀⋆─፝─᪵།‌꯭ 𝐀ɴᴠɪ ✘ 𝐌ᴜsɪᴄ 🥀˹ᴄᴡʜ˼」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3030aef8844fd15853dc7.jpg">
+  <img src="https://telegra.ph/file/b5e30506834ddcad0e84f.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3030aef8844fd15853dc7.jpg">
+  <img src="https://telegra.ph/file/b5e30506834ddcad0e84f.jpg">
 </p>
 
 <h3 align="center">
